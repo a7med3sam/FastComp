@@ -1,0 +1,20 @@
+{
+  "name": "fast-comp-temp",
+  "version": "1.0.26",
+  "description": "FastComp - The Ultimate Tool for Rapid React Component Creation!",
+  "main": "index.js",
+  "bin": {
+    "fs": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "front-end",
+    "Component",
+    "development"
+  ],
+  "author": "Ahmed Essam",
+  "license": "ISC"
+}
